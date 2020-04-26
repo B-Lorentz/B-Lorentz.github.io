@@ -1,8 +1,8 @@
---
+---
 layout: page
 title: "PAGE TITLE"
 permalink: /
---
+---
 
 Syntax highlighted code block
 # Header 1
