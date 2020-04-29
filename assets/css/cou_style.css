@@ -48,7 +48,14 @@ ul.nav {
   top: 0;
   width: 80%;
 }
-
+li {
+	background-color: darkblue;
+    	display: block;
+	border-radius: 25px;
+	padding: 25px; 
+	border: 15px;
+	width: 80%;
+}
 
 li.nav {
   display: block;
@@ -75,11 +82,4 @@ a:hover, a:active {
 a:active {
   color: blue;
 }
-li {
-	background-color: darkblue;
-    	display: block;
-	border-radius: 25px;
-	padding: 25px; 
-	border: 15px;
-	
-}
+
