@@ -36,7 +36,7 @@ Budapest, Pázmány Péter stny. 1/A, 1117
 
 ## Mérések
 
-<table style="width:100%">
+<table>
   <tr>
     <th> Mérés neve </th>
     <th> Mérési leírás</th>
