@@ -43,11 +43,13 @@ Budapest, Pázmány Péter stny. 1/A, 1117
   </tr>
   {% for item in site.data.labs %}
   <tr>
-    <td>item.name</td>
+    <td>{{item.name}}</td>
     <td><a href="{{ item.desc }}">
-      {{ Letölthető }}
+      Letölthető
     </a> </td>
-    <td>50</td>
+    <td><a href="{{ item.rep }}">
+      Letölthető
+    </a></td>
   </tr>
   {% endfor %}
 </table>
