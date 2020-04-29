@@ -6,14 +6,14 @@ body {
   
 }
 h1, h2, h3 {
-  color: darkred
+  color: darkred;
   text-align: center;
   border: 5px solid darkred;
   border-radius: 5px;
   padding: 10px 10px;
 }
 p {
-  color: black
+  color: black;
   text-align: center;
   border: 3px solid darkred;
   border-radius: 5px;
