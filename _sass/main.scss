@@ -7,7 +7,11 @@ h1 {
 p {
   color: red;
 }
-
+.center {
+  text-align: center;
+  border: 3px solid green;
+  border-radius: 15px;
+}
 li.course{
 	background-color: #f3fcba;
     	display: block;
