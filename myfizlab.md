@@ -56,6 +56,6 @@ Budapest, Pázmány Péter stny. 1/A, 1117
 </table>
 
 
-### [Itt megnézhetsz egy jegyzőkönyvet előadásként is](/downs/slides.html)
+### [Itt megnézhetsz egy jegyzőkönyvet előadásként is](/down/IngaSlides.slides.html)
 
 ### [Hivatalos honlap](http://metal.elte.hu/fiz_lab/)
