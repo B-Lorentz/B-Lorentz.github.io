@@ -25,4 +25,12 @@ készítése.
 + [Dr. Stéger József](https://stegerjozsef.web.elte.hu/)
 + [Szommer Péter](https://physics.elte.hu/ANY_szommer)
 
+## Helyszín
+ELTE Lágymányosi Campus - Északi tömb
+Budapest, Pázmány Péter stny. 1/A, 1117
+2.77 terem
+![Északi tömb][building]
+
+[building]: /lagymanyos.jpg
+
 ### [Hivatalos honlap](http://metal.elte.hu/fiz_lab/)
