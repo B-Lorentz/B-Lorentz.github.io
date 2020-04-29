@@ -1,5 +1,22 @@
 ---
 ---
 body {
-  background-color: black;
+  background-color: cornsilk;
+  font-family: "Courier New", Courier, monospace;
+  
+}
+
+p {
+  color: black
+}
+
+table {
+  border-collapse: collapse;
+  border-radius: 4px;
+  width: 80%;
+}
+
+table, th, td {
+  border: 2px solid darkred;
+  
 }
