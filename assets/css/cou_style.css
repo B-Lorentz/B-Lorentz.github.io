@@ -5,18 +5,63 @@ body {
   font-family: "Courier New", Courier, monospace;
   
 }
-
+h1, h2, h3 {
+  color: darkred
+  text-align: center;
+  border: 5px solid darkred;
+  border-radius: 5px;
+  padding: 10px 10px;
+}
 p {
   color: black
+  text-align: center;
+  border: 3px solid darkred;
+  border-radius: 5px;
+  padding: 10px 10px;
 }
 
 table {
   border-collapse: collapse;
-  border-radius: 4px;
+  border-radius: 5px;
   width: 80%;
 }
 
 table, th, td {
-  border: 2px solid darkred;
+  border: 3px solid darkred;
   
+}
+ul.nav {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: darkblue;
+  position: sticky;
+  top: 0;
+  width: 80%;
+}
+
+
+li.nav {
+  display: block;
+  color: floralwhite;
+  text-align: center;
+  padding: 5px 5px;
+  
+  float: left;
+}
+
+a:link, a:visited {
+  background-color: cornsilk;
+  color: darkblue;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: darkred;
+}
+/* selected link */
+a:active {
+  color: blue;
 }
