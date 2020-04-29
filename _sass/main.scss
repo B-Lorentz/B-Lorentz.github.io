@@ -7,7 +7,14 @@ h1 {
 p {
   color: red;
 }
-p.center {
-  text-align: center;
-  color: red;
+
+li.course{
+	background-color: #f3fcba;
+    display: block;
+	border-radius: 25px;
+	padding: 20px; 
+}
+
+ul.course_list {
+  list-style-type: circle;
 }
