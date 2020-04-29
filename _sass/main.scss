@@ -36,17 +36,19 @@ li.course{
 
 ul.nav {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: darkblue;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 
 li.nav {
   display: block;
-  color: white;
+  color: floralwhite;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  float: left;
 }
