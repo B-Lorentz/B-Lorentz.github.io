@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: a_course
 title: "Fizika Laboratórium I/Fizikai Alapmérések - Nemhivatalos honlap"
 ---
 ## A labor célja
