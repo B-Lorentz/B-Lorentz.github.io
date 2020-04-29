@@ -1,8 +1,12 @@
-- name: "Szilárd testek sűrűségének mérése"
-  descr: http://metal.elte.hu/fiz_lab/uj/sz_t_s_m/szilard_testek_surusegenek_merese_A.pdf
+- name: "Forgómozgás vizsgálata"
+  descr: http://metal.elte.hu/fiz_lab/uj/f_v/forgomozgas_vizsgalata_A.pdf
+  rep: /down/Forgo.pdf
 - name: "A Hooke-törvény vizsgálata" 
   descr: http://metal.elte.hu/fiz_lab/uj/h_t_v/hooke_torveny_vizsgalata_A.pdf
+  rep: /down/Hooke.pdf
 - name : "Geometriai optika"
   descr: http://metal.elte.hu/fiz_lab/uj/o_a/Optikai_alapmeresek.pdf
+  rep: Optics.pdf
 - name: "Állóhullám kötélen"
   descr: http://metal.elte.hu/fiz_lab/uj/a_k/allohullam_kotelen_A.pdf
+  rep: /down/StandWave.pdf
