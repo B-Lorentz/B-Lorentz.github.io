@@ -1,6 +1,7 @@
 ---
-layout: a_course
+layout: default
 title: "Fizika Laboratórium I/Fizikai Alapmérések - Nemhivatalos honlap"
+stysh: /assets/css/cou_style.css
 ---
 ## A labor célja
 A tantárgy elsődleges célja a fizika egyes alaptörvényeit demonstráló kísérletek
