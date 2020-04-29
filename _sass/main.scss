@@ -49,6 +49,23 @@ li.nav {
   color: floralwhite;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  
   float: left;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+/* selected link */
+a:active {
+  color: blue;
 }
