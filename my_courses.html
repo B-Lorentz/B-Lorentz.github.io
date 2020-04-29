@@ -4,8 +4,12 @@ title: Home
 ---
 <h>{{"Courses I attend include:"}}</h>
 <ul class="course_list">
-  <li class = "course"> A fizika numerikus módszerei II</li>
-  <li class = "course"> A kuatómunka információs eszközei</li>
-  <li class = "course"> Fizika laboratórium I.</li>
-  
+{% for item in site.data.courses %}
+    <li class = "course">
+      <a href="{{ item.link }}">
+      {{ item.name }}
+    </a> 
+    <\li>
+{% endfor %}
+      
 </ul>
