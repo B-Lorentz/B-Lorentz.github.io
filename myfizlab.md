@@ -44,10 +44,10 @@ Budapest, Pázmány Péter stny. 1/A, 1117
   {% for item in site.data.labs %}
   <tr>
     <td>{{item.name}}</td>
-    <td><a href="{{ item.desc }}">
+    <td><a href="{{ item.descr }}" download>
       Letölthető
     </a> </td>
-    <td><a href="{{ item.rep }}">
+    <td><a href="{{ item.rep }}" download>
       Letölthető
     </a></td>
   </tr>
