@@ -35,10 +35,20 @@ Budapest, Pázmány Péter stny. 1/A, 1117
 
 ## Mérések
 
-| Mérés neve        | Mérési leírás           | Az én jegyzőkönyvem  |
-| ------------- |:-------------:| -----:|
-| Szilárd testek sűrűségének mérése | [itt](http://metal.elte.hu/fiz_lab/uj/sz_t_s_m/szilard_testek_surusegenek_merese_A.pdf)||
-| A Hooke-törvény vizsgálata |[itt](http://metal.elte.hu/fiz_lab/uj/h_t_v/hooke_torveny_vizsgalata_A.pdf)||
-| Geometriai optika  | [itt](http://metal.elte.hu/fiz_lab/uj/o_a/Optikai_alapmeresek.pdf)      |  |
-| Állóhullám kötélen| [](http://metal.elte.hu/fiz_lab/uj/a_k/allohullam_kotelen_A.pdf)  |  |
+<table style="width:100%">
+  <tr>
+    <th> Mérés neve </th>
+    <th> Mérési leírás</th>
+    <th> Az én jegyzőkönyvem</th>
+  </tr>
+  {% for item in site.data.labs %}
+  <tr>
+    <td>item.name</td>
+    <td><a href="{{ item.desc }}">
+      {{ Letölthető }}
+    </a> </td>
+    <td>50</td>
+  </tr>
+  {% endfor %}
+</table>
 ### [Hivatalos honlap](http://metal.elte.hu/fiz_lab/)
