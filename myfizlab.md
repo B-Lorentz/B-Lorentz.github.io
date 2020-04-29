@@ -25,4 +25,4 @@ készítése.
 + [Dr. Stéger József](https://stegerjozsef.web.elte.hu/)
 + [Szommer Péter](https://physics.elte.hu/ANY_szommer)
 
-###[Hivatalos honlap](http://metal.elte.hu/fiz_lab/)
+### [Hivatalos honlap](http://metal.elte.hu/fiz_lab/)
