@@ -17,7 +17,7 @@ h1, h2, h3 {
   margin-right: 150px;
   margin-left: 150px;
 }
-p, ul {
+p, ul, table {
   color: black;
   text-align: center;
   border: 3px solid darkred;
