@@ -22,7 +22,7 @@ li.course{
 	
 }
 
-ul.course_list {
+.course_list {
 	background-color: darkblue;
   	list-style-type: circle;
 	padding: 15px; 
@@ -30,4 +30,5 @@ ul.course_list {
   	margin-bottom: 100px;
   	margin-right: 150px;
   	margin-left: 150px;
+	border-radius: 15px;
 }
